@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 463c483363e29dd43aba9045424bfedf, type: 3}
+  m_Name: 0
+  m_EditorClassIdentifier: 
+  mainText: "Silverio naci\xF3 el 24 de diciembre de 1960 en Metlat\xF3noc, Guerrero,
+    una comunidad enclavada en la Sierra Mixteca donde \xFAnicamente se hablaba mixteco.
+    Sus padres, campesinos que apenas ten\xEDan lo necesario para sobrevivir, viv\xEDan
+    al margen del llamado \"milagro mexicano\": ese M\xE9xico del desarrollo estabilizador
+    que crec\xEDa en las ciudades, pero que olvidaba por completo a los pueblos ind\xEDgenas
+    del sur."
+  optionAmount: 1
+  responces:
+  - Continuar
+  arrayReferences: 01000000
+  quitButtons: 1
+  chargeAnotherOptions: 0
+  dialogs:
+  - 
+  optionsIndex: 0
+  endGame: 0

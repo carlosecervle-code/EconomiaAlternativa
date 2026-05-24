@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 463c483363e29dd43aba9045424bfedf, type: 3}
+  m_Name: 5
+  m_EditorClassIdentifier: 
+  mainText: "Silverio es subido a un autob\xFAs en contra de su voluntad, envuelto
+    en l\xE1grimas. En cuanto llega a la terminal de la Ciudad de M\xE9xico, su t\xEDo
+    Toribio lo recoge y lo lleva a su casa en la Colonia Narvarte. Ese mismo d\xEDa
+    van a comprarle ropa y uniforme. Silverio comenzar\xE1 la escuela ese mismo mes.
+    Aunque la tristeza por sus padres lo acompa\xF1ar\xE1 siempre, decide esforzarse.
+    Jura que alg\xFAn d\xEDa regresar\xE1 a Guerrero para ayudar a su familia. "
+  optionAmount: 0
+  responces: []
+  arrayReferences: 000000000000000000000000
+  quitButtons: 1
+  chargeAnotherOptions: 0
+  dialogs: []
+  optionsIndex: 0
+  endGame: 0
