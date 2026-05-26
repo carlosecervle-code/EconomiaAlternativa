@@ -14,9 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mainText: Silverio eventualmente se escapa del campo siendo adolescente y llega
     a la CDMX por sus propios medios.
-  optionAmount: 0
-  responces: []
-  arrayReferences: 000000000000000000000000
+  optionAmount: 1
+  responses:
+  - Continuar
+  arrayReferences: 00000000
   quitButtons: 1
   chargeAnotherOptions: 0
   dialogs: []

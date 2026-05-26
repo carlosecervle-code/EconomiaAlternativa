@@ -8,4 +8,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Menu Principal.unity
+    guid: d1f11b44be3115942ad6e163e6dc57c1
+  - enabled: 1
+    path: "Assets/Scenes/Cap\xEDtulo 1.unity"
+    guid: 9f2c8466cd19d5c4aa4f0602530dd2c8
+  - enabled: 1
+    path: "Assets/Scenes/Cap\xEDtulo 2.unity"
+    guid: a9fe257b4ba28b549a78c442428e37d9
   m_configObjects: {}

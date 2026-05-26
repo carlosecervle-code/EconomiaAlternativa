@@ -18,7 +18,8 @@ MonoBehaviour:
     por un productor de ma\xEDz. La infancia de Silverio transcurre entre surcos
     y pobreza, sin escuela y sin futuro visible. "
   optionAmount: 1
-  responses: []
+  responses:
+  - Continuar
   arrayReferences: 04000000
   quitButtons: 1
   chargeAnotherOptions: 0

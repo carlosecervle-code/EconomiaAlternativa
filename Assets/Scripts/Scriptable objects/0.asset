@@ -19,12 +19,11 @@ MonoBehaviour:
     que crec\xEDa en las ciudades, pero que olvidaba por completo a los pueblos ind\xEDgenas
     del sur."
   optionAmount: 1
-  responces:
+  responses:
   - Continuar
   arrayReferences: 01000000
   quitButtons: 1
   chargeAnotherOptions: 0
-  dialogs:
-  - 
+  dialogs: []
   optionsIndex: 0
   endGame: 0

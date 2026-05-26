@@ -15,7 +15,7 @@ MonoBehaviour:
   mainText: "Toribio escapa de casa solo sin donde dormir ni que comer, despu\xE9s
     de unas horas se arrepiente y vuelve a su casa."
   optionAmount: 1
-  responces:
+  responses:
   - Continuar
   arrayReferences: 03000000
   quitButtons: 1

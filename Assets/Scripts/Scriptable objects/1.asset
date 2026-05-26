@@ -18,7 +18,7 @@ MonoBehaviour:
     bien el espa\xF1ol y que hab\xEDa logrado establecerse en la capital. Toribio
     se compromet\xEDa a darle escuela, ropa, comida y techo. "
   optionAmount: 1
-  responces:
+  responses:
   - Continuar
   arrayReferences: 02000000
   quitButtons: 1

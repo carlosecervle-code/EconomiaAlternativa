@@ -18,9 +18,10 @@ MonoBehaviour:
     van a comprarle ropa y uniforme. Silverio comenzar\xE1 la escuela ese mismo mes.
     Aunque la tristeza por sus padres lo acompa\xF1ar\xE1 siempre, decide esforzarse.
     Jura que alg\xFAn d\xEDa regresar\xE1 a Guerrero para ayudar a su familia. "
-  optionAmount: 0
-  responces: []
-  arrayReferences: 000000000000000000000000
+  optionAmount: 1
+  responses:
+  - Continuar
+  arrayReferences: 00000000
   quitButtons: 1
   chargeAnotherOptions: 0
   dialogs: []
